@@ -46,3 +46,7 @@ function func5() {
     document.getElementById('star05').style.color = 'blue';
     document.getElementById('wsh').innerText='Thanks for rating us 5 stars.'
 }
+
+// function play(){
+//     var a = getSelection(document.getElementById('cl').innerHTML)
+// }
