@@ -2,13 +2,13 @@
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+/* 
 .body{
 background: radial-gradient(aqua,aqua,blue)no-repeat;
-}
+} */
 
 .header{
-    background: radial-gradient(violet,pink,purple)no-repeat;
+    /* background: radial-gradient(violet,pink,purple)no-repeat; */
     padding: 0;
     margin: 0;
     border: 0;
